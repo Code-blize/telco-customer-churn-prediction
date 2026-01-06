@@ -5,7 +5,7 @@
 
 A machine learning project to predict customer churn in the telecommunications industry using Logistic Regression and Random Forest classifiers.
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
@@ -18,7 +18,7 @@ A machine learning project to predict customer churn in the telecommunications i
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+##  Overview
 
 This project provides an end-to-end churn analysis for a telecommunications company, focusing on identifying why customers leave and building a predictive model to flag at-risk individuals.
 Customer churn is a critical metric for subscription-based businesses. This project analyzes telecom customer data to:
@@ -56,7 +56,7 @@ Customer churn is a critical metric for subscription-based businesses. This proj
 - Account information (tenure, contract type, payment method)
 - Billing (monthly charges, total charges)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 telco-churn-prediction/
@@ -107,7 +107,7 @@ telco-churn-prediction/
 └── README.md
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
