@@ -117,8 +117,8 @@ telco-churn-prediction/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Code-blize/telco-churn-prediction.git
-cd telco-churn-prediction
+git clone https://github.com/Code-blize/telco-customer-churn-prediction.git
+cd telco-customer-churn-prediction
 ```
 
 2. **Create a virtual environment** (recommended)
@@ -269,7 +269,7 @@ See the `visualizations/` folder for:
 -  **Multiple Models**: Logistic Regression & Random Forest
 -  **Proper Validation**: Stratified train-test split, no data leakage
 -  **Interpretability**: Feature importance and model coefficients
--  **Production Ready**: Saved models for deployment
+-  **Deployment-Oriented**: Saved trained models for future integration
 -  **Reproducible**: Fixed random seeds, clear documentation
 
 ##  Future Improvements
